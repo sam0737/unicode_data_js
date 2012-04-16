@@ -69,3 +69,13 @@ mapping,cp1252,n,http://www.unicode.org/Public/MAPPINGS/VENDORS/MICSFT/WINDOWS/C
 mapping,iso8859-1,n,http://www.unicode.org/Public/MAPPINGS/ISO8859/8859-1.TXT
 mapping,cp437,n,http://www.unicode.org/Public/MAPPINGS/VENDORS/MICSFT/PC/CP437.TXT
 mapping,cp037,n,http://www.unicode.org/Public/MAPPINGS/VENDORS/MICSFT/EBCDIC/CP037.TXT
+# Thai
+mapping,cp874,n,http://www.unicode.org/Public/MAPPINGS/VENDORS/MICSFT/WINDOWS/CP874.TXT
+# Japanese (Shift JIS)
+mapping,cp932,n,http://www.unicode.org/Public/MAPPINGS/VENDORS/MICSFT/WINDOWS/CP932.TXT
+# Simplified Chinese (GBK)
+mapping,cp936,n,http://www.unicode.org/Public/MAPPINGS/VENDORS/MICSFT/WINDOWS/CP936.TXT
+# Korean
+mapping,cp949,n,http://www.unicode.org/Public/MAPPINGS/VENDORS/MICSFT/WINDOWS/CP949.TXT
+# Traditional Chinese (Big5)
+mapping,cp950,n,http://www.unicode.org/Public/MAPPINGS/VENDORS/MICSFT/WINDOWS/CP950.TXT
