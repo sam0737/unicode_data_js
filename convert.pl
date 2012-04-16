@@ -37,7 +37,7 @@ my $handlers = {
             }
         }
         $output = sprintf("$mapping_comment", $url) . "$json_callback({\n${output}'_':'_'});";
-        writeOutput("mappings/$filename.txt", $output);
+        writeOutput("mappings/$filename.js", $output);
     }
 };
 
